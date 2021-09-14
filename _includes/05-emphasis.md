@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I speak malayalam better than english.*
+_I prefer english outside kerala_
+
+**I can speak to anyone without any fear.**
+__I am confident enough to face any problems__
